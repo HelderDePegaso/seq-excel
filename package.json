@@ -1,0 +1,16 @@
+{
+  "name": "seq-excel",
+  "version": "1.0.0",
+  "description": "A sequence genarator based on excel table structure. It returns the elements of excel cell Set as the value of a sequence helping genarating unique ids named as A1, A2 .... XFD1048576",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "seq-excel",
+    "excel",
+    "sequence"
+  ],
+  "author": "Hélder De Pégaso",
+  "license": "ISC"
+}
